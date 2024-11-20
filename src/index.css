@@ -1,0 +1,79 @@
+/* styles.css */
+
+/* Style pour la mise en page du dashboard */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f7fc;
+}
+
+/* Container principal qui utilise flexbox */
+.flex {
+  display: flex;
+}
+
+/* Sidebar */
+aside {
+  background-color: #2d3748;
+  color: white;
+  width: 250px;
+  padding: 20px;
+  height: 100vh;
+}
+
+aside h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+aside ul {
+  list-style: none;
+  padding: 0;
+}
+
+aside li {
+  margin: 15px 0;
+}
+
+aside a {
+  text-decoration: none;
+  color: #e2e8f0;
+  font-size: 18px;
+  transition: color 0.3s;
+}
+
+aside a:hover {
+  color: #63b3ed;
+}
+
+/* Main content */
+main {
+  flex: 1;
+  padding: 30px;
+  background-color: white;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+main h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+main p {
+  font-size: 18px;
+  color: #4a5568;
+}
+
+/* Section de layout responsive */
+@media (max-width: 768px) {
+  .flex {
+    flex-direction: column;
+  }
+  aside {
+    width: 100%;
+    height: auto;
+  }
+  main {
+    margin-top: 20px;
+  }
+}

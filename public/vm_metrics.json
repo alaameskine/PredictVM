@@ -1,0 +1,2413 @@
+{
+    "win10": [
+        {
+            "timestamp": "2024-12-06 18:43:51",
+            "metrics": {
+                "cpu_time": 6023115000,
+                "memory_used_mb": 130,
+                "disk_read_bytes": 28082176,
+                "disk_write_bytes": 11776,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:43:56",
+            "metrics": {
+                "cpu_time": 11210100000,
+                "memory_used_mb": 214,
+                "disk_read_bytes": 57991680,
+                "disk_write_bytes": 13312,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:44:01",
+            "metrics": {
+                "cpu_time": 17011247000,
+                "memory_used_mb": 274,
+                "disk_read_bytes": 57991680,
+                "disk_write_bytes": 13312,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:44:06",
+            "metrics": {
+                "cpu_time": 21719904000,
+                "memory_used_mb": 382,
+                "disk_read_bytes": 57991680,
+                "disk_write_bytes": 13312,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:44:11",
+            "metrics": {
+                "cpu_time": 25911638000,
+                "memory_used_mb": 611,
+                "disk_read_bytes": 57991680,
+                "disk_write_bytes": 13312,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:44:16",
+            "metrics": {
+                "cpu_time": 30291267000,
+                "memory_used_mb": 730,
+                "disk_read_bytes": 57991680,
+                "disk_write_bytes": 13312,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:44:21",
+            "metrics": {
+                "cpu_time": 35338094000,
+                "memory_used_mb": 897,
+                "disk_read_bytes": 62882816,
+                "disk_write_bytes": 29696,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:44:26",
+            "metrics": {
+                "cpu_time": 40094509000,
+                "memory_used_mb": 1045,
+                "disk_read_bytes": 74597376,
+                "disk_write_bytes": 29696,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:44:31",
+            "metrics": {
+                "cpu_time": 44977457000,
+                "memory_used_mb": 1207,
+                "disk_read_bytes": 93244416,
+                "disk_write_bytes": 148480,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:44:37",
+            "metrics": {
+                "cpu_time": 49408225000,
+                "memory_used_mb": 1332,
+                "disk_read_bytes": 107447296,
+                "disk_write_bytes": 218112,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:44:42",
+            "metrics": {
+                "cpu_time": 56047150000,
+                "memory_used_mb": 1506,
+                "disk_read_bytes": 129381376,
+                "disk_write_bytes": 262144,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:44:47",
+            "metrics": {
+                "cpu_time": 61888669000,
+                "memory_used_mb": 1678,
+                "disk_read_bytes": 146258944,
+                "disk_write_bytes": 372736,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:44:52",
+            "metrics": {
+                "cpu_time": 67000271000,
+                "memory_used_mb": 1822,
+                "disk_read_bytes": 160586752,
+                "disk_write_bytes": 446464,
+                "network_rx_bytes": 176,
+                "network_tx_bytes": 0
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:44:57",
+            "metrics": {
+                "cpu_time": 73161078000,
+                "memory_used_mb": 1872,
+                "disk_read_bytes": 188292096,
+                "disk_write_bytes": 491520,
+                "network_rx_bytes": 5145,
+                "network_tx_bytes": 320
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:45:02",
+            "metrics": {
+                "cpu_time": 77791935000,
+                "memory_used_mb": 1951,
+                "disk_read_bytes": 199121920,
+                "disk_write_bytes": 524288,
+                "network_rx_bytes": 5301,
+                "network_tx_bytes": 476
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:45:07",
+            "metrics": {
+                "cpu_time": 81635651000,
+                "memory_used_mb": 1810,
+                "disk_read_bytes": 221191168,
+                "disk_write_bytes": 581632,
+                "network_rx_bytes": 5405,
+                "network_tx_bytes": 714
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:45:12",
+            "metrics": {
+                "cpu_time": 86209088000,
+                "memory_used_mb": 1814,
+                "disk_read_bytes": 251902976,
+                "disk_write_bytes": 723968,
+                "network_rx_bytes": 5561,
+                "network_tx_bytes": 714
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:45:17",
+            "metrics": {
+                "cpu_time": 90514771000,
+                "memory_used_mb": 1750,
+                "disk_read_bytes": 277065728,
+                "disk_write_bytes": 941056,
+                "network_rx_bytes": 5747,
+                "network_tx_bytes": 714
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:45:22",
+            "metrics": {
+                "cpu_time": 95522327000,
+                "memory_used_mb": 1755,
+                "disk_read_bytes": 357939200,
+                "disk_write_bytes": 4140032,
+                "network_rx_bytes": 5903,
+                "network_tx_bytes": 714
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:45:28",
+            "metrics": {
+                "cpu_time": 101837429000,
+                "memory_used_mb": 1758,
+                "disk_read_bytes": 393062400,
+                "disk_write_bytes": 22846976,
+                "network_rx_bytes": 6059,
+                "network_tx_bytes": 714
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:45:33",
+            "metrics": {
+                "cpu_time": 107435045000,
+                "memory_used_mb": 1758,
+                "disk_read_bytes": 424654848,
+                "disk_write_bytes": 23025664,
+                "network_rx_bytes": 6163,
+                "network_tx_bytes": 714
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:45:38",
+            "metrics": {
+                "cpu_time": 113020868000,
+                "memory_used_mb": 1740,
+                "disk_read_bytes": 445835264,
+                "disk_write_bytes": 109256192,
+                "network_rx_bytes": 6319,
+                "network_tx_bytes": 714
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:45:43",
+            "metrics": {
+                "cpu_time": 119349379000,
+                "memory_used_mb": 1737,
+                "disk_read_bytes": 476993536,
+                "disk_write_bytes": 157389824,
+                "network_rx_bytes": 6423,
+                "network_tx_bytes": 714
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:45:48",
+            "metrics": {
+                "cpu_time": 123891206000,
+                "memory_used_mb": 1670,
+                "disk_read_bytes": 498759680,
+                "disk_write_bytes": 157496320,
+                "network_rx_bytes": 6649,
+                "network_tx_bytes": 714
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:45:53",
+            "metrics": {
+                "cpu_time": 129471279000,
+                "memory_used_mb": 1670,
+                "disk_read_bytes": 517192704,
+                "disk_write_bytes": 157794816,
+                "network_rx_bytes": 6878,
+                "network_tx_bytes": 714
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:45:58",
+            "metrics": {
+                "cpu_time": 135936227000,
+                "memory_used_mb": 1671,
+                "disk_read_bytes": 517294080,
+                "disk_write_bytes": 158380544,
+                "network_rx_bytes": 7034,
+                "network_tx_bytes": 714
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:46:03",
+            "metrics": {
+                "cpu_time": 144135735000,
+                "memory_used_mb": 1674,
+                "disk_read_bytes": 518937088,
+                "disk_write_bytes": 160752128,
+                "network_rx_bytes": 7138,
+                "network_tx_bytes": 871
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:46:08",
+            "metrics": {
+                "cpu_time": 152216138000,
+                "memory_used_mb": 1681,
+                "disk_read_bytes": 520964096,
+                "disk_write_bytes": 161643008,
+                "network_rx_bytes": 7824,
+                "network_tx_bytes": 2176
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:46:13",
+            "metrics": {
+                "cpu_time": 160393614000,
+                "memory_used_mb": 1682,
+                "disk_read_bytes": 531280896,
+                "disk_write_bytes": 162292736,
+                "network_rx_bytes": 8708,
+                "network_tx_bytes": 7599
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:46:18",
+            "metrics": {
+                "cpu_time": 167453164000,
+                "memory_used_mb": 1614,
+                "disk_read_bytes": 544469504,
+                "disk_write_bytes": 167650816,
+                "network_rx_bytes": 8998,
+                "network_tx_bytes": 9203
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:46:23",
+            "metrics": {
+                "cpu_time": 175138968000,
+                "memory_used_mb": 1614,
+                "disk_read_bytes": 547497472,
+                "disk_write_bytes": 171916288,
+                "network_rx_bytes": 9447,
+                "network_tx_bytes": 10568
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:46:28",
+            "metrics": {
+                "cpu_time": 183541019000,
+                "memory_used_mb": 1614,
+                "disk_read_bytes": 555697664,
+                "disk_write_bytes": 175637504,
+                "network_rx_bytes": 15121,
+                "network_tx_bytes": 16023
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:46:33",
+            "metrics": {
+                "cpu_time": 190464868000,
+                "memory_used_mb": 1614,
+                "disk_read_bytes": 559418368,
+                "disk_write_bytes": 178924032,
+                "network_rx_bytes": 22997,
+                "network_tx_bytes": 21738
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:46:38",
+            "metrics": {
+                "cpu_time": 195755884000,
+                "memory_used_mb": 1614,
+                "disk_read_bytes": 565305344,
+                "disk_write_bytes": 179338240,
+                "network_rx_bytes": 23153,
+                "network_tx_bytes": 22096
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:46:43",
+            "metrics": {
+                "cpu_time": 203984254000,
+                "memory_used_mb": 1616,
+                "disk_read_bytes": 571950080,
+                "disk_write_bytes": 179588096,
+                "network_rx_bytes": 27891,
+                "network_tx_bytes": 22933
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:46:49",
+            "metrics": {
+                "cpu_time": 210170147000,
+                "memory_used_mb": 1620,
+                "disk_read_bytes": 578126848,
+                "disk_write_bytes": 180812800,
+                "network_rx_bytes": 46816,
+                "network_tx_bytes": 30083
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:46:54",
+            "metrics": {
+                "cpu_time": 216676264000,
+                "memory_used_mb": 1628,
+                "disk_read_bytes": 587256832,
+                "disk_write_bytes": 181033984,
+                "network_rx_bytes": 58174,
+                "network_tx_bytes": 35372
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:46:59",
+            "metrics": {
+                "cpu_time": 222740718000,
+                "memory_used_mb": 1632,
+                "disk_read_bytes": 592239104,
+                "disk_write_bytes": 182148096,
+                "network_rx_bytes": 67066,
+                "network_tx_bytes": 41605
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:47:04",
+            "metrics": {
+                "cpu_time": 230037158000,
+                "memory_used_mb": 1632,
+                "disk_read_bytes": 602552832,
+                "disk_write_bytes": 186322944,
+                "network_rx_bytes": 77163,
+                "network_tx_bytes": 45853
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:47:09",
+            "metrics": {
+                "cpu_time": 235974284000,
+                "memory_used_mb": 1632,
+                "disk_read_bytes": 619654144,
+                "disk_write_bytes": 188067840,
+                "network_rx_bytes": 83190,
+                "network_tx_bytes": 48666
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:47:14",
+            "metrics": {
+                "cpu_time": 244394142000,
+                "memory_used_mb": 1633,
+                "disk_read_bytes": 654566400,
+                "disk_write_bytes": 189599744,
+                "network_rx_bytes": 83635,
+                "network_tx_bytes": 49032
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:47:19",
+            "metrics": {
+                "cpu_time": 252630864000,
+                "memory_used_mb": 1633,
+                "disk_read_bytes": 668853248,
+                "disk_write_bytes": 190324736,
+                "network_rx_bytes": 89778,
+                "network_tx_bytes": 51325
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:47:24",
+            "metrics": {
+                "cpu_time": 260163057000,
+                "memory_used_mb": 1634,
+                "disk_read_bytes": 695391232,
+                "disk_write_bytes": 192663552,
+                "network_rx_bytes": 89934,
+                "network_tx_bytes": 51325
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:47:29",
+            "metrics": {
+                "cpu_time": 267105397000,
+                "memory_used_mb": 1634,
+                "disk_read_bytes": 707059200,
+                "disk_write_bytes": 193992192,
+                "network_rx_bytes": 90120,
+                "network_tx_bytes": 51325
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:47:34",
+            "metrics": {
+                "cpu_time": 275213783000,
+                "memory_used_mb": 1610,
+                "disk_read_bytes": 729405952,
+                "disk_write_bytes": 195099648,
+                "network_rx_bytes": 90384,
+                "network_tx_bytes": 51433
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:47:39",
+            "metrics": {
+                "cpu_time": 281737384000,
+                "memory_used_mb": 1611,
+                "disk_read_bytes": 743618560,
+                "disk_write_bytes": 195415040,
+                "network_rx_bytes": 99551,
+                "network_tx_bytes": 52732
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:47:44",
+            "metrics": {
+                "cpu_time": 288337365000,
+                "memory_used_mb": 1611,
+                "disk_read_bytes": 757282304,
+                "disk_write_bytes": 195580416,
+                "network_rx_bytes": 121110,
+                "network_tx_bytes": 61403
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:47:49",
+            "metrics": {
+                "cpu_time": 293182746000,
+                "memory_used_mb": 1601,
+                "disk_read_bytes": 760272896,
+                "disk_write_bytes": 195999744,
+                "network_rx_bytes": 125154,
+                "network_tx_bytes": 71277
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:47:54",
+            "metrics": {
+                "cpu_time": 299293172000,
+                "memory_used_mb": 1601,
+                "disk_read_bytes": 770870784,
+                "disk_write_bytes": 197384192,
+                "network_rx_bytes": 130751,
+                "network_tx_bytes": 72371
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:47:59",
+            "metrics": {
+                "cpu_time": 306050691000,
+                "memory_used_mb": 1608,
+                "disk_read_bytes": 784247808,
+                "disk_write_bytes": 197531648,
+                "network_rx_bytes": 147879,
+                "network_tx_bytes": 81815
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:48:05",
+            "metrics": {
+                "cpu_time": 312175422000,
+                "memory_used_mb": 1612,
+                "disk_read_bytes": 797267968,
+                "disk_write_bytes": 198236160,
+                "network_rx_bytes": 155745,
+                "network_tx_bytes": 82837
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:48:10",
+            "metrics": {
+                "cpu_time": 320154284000,
+                "memory_used_mb": 1620,
+                "disk_read_bytes": 810308608,
+                "disk_write_bytes": 206227456,
+                "network_rx_bytes": 161317,
+                "network_tx_bytes": 83865
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:48:15",
+            "metrics": {
+                "cpu_time": 328429975000,
+                "memory_used_mb": 1626,
+                "disk_read_bytes": 842672128,
+                "disk_write_bytes": 207710208,
+                "network_rx_bytes": 175252,
+                "network_tx_bytes": 86506
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:48:20",
+            "metrics": {
+                "cpu_time": 336987701000,
+                "memory_used_mb": 1632,
+                "disk_read_bytes": 858522112,
+                "disk_write_bytes": 207874048,
+                "network_rx_bytes": 175450,
+                "network_tx_bytes": 86548
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:48:25",
+            "metrics": {
+                "cpu_time": 345663104000,
+                "memory_used_mb": 1644,
+                "disk_read_bytes": 864377344,
+                "disk_write_bytes": 208103424,
+                "network_rx_bytes": 191797,
+                "network_tx_bytes": 92693
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:48:30",
+            "metrics": {
+                "cpu_time": 354268900000,
+                "memory_used_mb": 1669,
+                "disk_read_bytes": 909044736,
+                "disk_write_bytes": 208332800,
+                "network_rx_bytes": 195850,
+                "network_tx_bytes": 94164
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:48:35",
+            "metrics": {
+                "cpu_time": 363242021000,
+                "memory_used_mb": 1691,
+                "disk_read_bytes": 923799552,
+                "disk_write_bytes": 209491968,
+                "network_rx_bytes": 206241,
+                "network_tx_bytes": 97345
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:48:40",
+            "metrics": {
+                "cpu_time": 371040477000,
+                "memory_used_mb": 1769,
+                "disk_read_bytes": 1015284736,
+                "disk_write_bytes": 209496064,
+                "network_rx_bytes": 232808,
+                "network_tx_bytes": 105211
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:48:45",
+            "metrics": {
+                "cpu_time": 379015405000,
+                "memory_used_mb": 1879,
+                "disk_read_bytes": 1141139968,
+                "disk_write_bytes": 210548736,
+                "network_rx_bytes": 232912,
+                "network_tx_bytes": 105211
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:48:50",
+            "metrics": {
+                "cpu_time": 386999061000,
+                "memory_used_mb": 1959,
+                "disk_read_bytes": 1221734400,
+                "disk_write_bytes": 212609024,
+                "network_rx_bytes": 266018,
+                "network_tx_bytes": 117405
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:48:55",
+            "metrics": {
+                "cpu_time": 395373449000,
+                "memory_used_mb": 1981,
+                "disk_read_bytes": 1227053568,
+                "disk_write_bytes": 232036864,
+                "network_rx_bytes": 279279,
+                "network_tx_bytes": 119110
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:49:00",
+            "metrics": {
+                "cpu_time": 404003806000,
+                "memory_used_mb": 2005,
+                "disk_read_bytes": 1236309504,
+                "disk_write_bytes": 233892352,
+                "network_rx_bytes": 315729,
+                "network_tx_bytes": 122532
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:49:05",
+            "metrics": {
+                "cpu_time": 412130557000,
+                "memory_used_mb": 2028,
+                "disk_read_bytes": 1243539456,
+                "disk_write_bytes": 239741952,
+                "network_rx_bytes": 316575,
+                "network_tx_bytes": 123149
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:49:10",
+            "metrics": {
+                "cpu_time": 419672821000,
+                "memory_used_mb": 2054,
+                "disk_read_bytes": 1248896512,
+                "disk_write_bytes": 242084864,
+                "network_rx_bytes": 317332,
+                "network_tx_bytes": 124307
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:49:15",
+            "metrics": {
+                "cpu_time": 427339336000,
+                "memory_used_mb": 2077,
+                "disk_read_bytes": 1262052864,
+                "disk_write_bytes": 245623808,
+                "network_rx_bytes": 318411,
+                "network_tx_bytes": 124840
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:49:20",
+            "metrics": {
+                "cpu_time": 434646163000,
+                "memory_used_mb": 2097,
+                "disk_read_bytes": 1263006208,
+                "disk_write_bytes": 246895104,
+                "network_rx_bytes": 325903,
+                "network_tx_bytes": 128856
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:49:25",
+            "metrics": {
+                "cpu_time": 439916835000,
+                "memory_used_mb": 2100,
+                "disk_read_bytes": 1266619904,
+                "disk_write_bytes": 247259648,
+                "network_rx_bytes": 333156,
+                "network_tx_bytes": 132044
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:49:31",
+            "metrics": {
+                "cpu_time": 445404434000,
+                "memory_used_mb": 2105,
+                "disk_read_bytes": 1268925440,
+                "disk_write_bytes": 247398912,
+                "network_rx_bytes": 366142,
+                "network_tx_bytes": 144433
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:49:36",
+            "metrics": {
+                "cpu_time": 451781349000,
+                "memory_used_mb": 2109,
+                "disk_read_bytes": 1270571520,
+                "disk_write_bytes": 247849472,
+                "network_rx_bytes": 366352,
+                "network_tx_bytes": 144487
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:49:41",
+            "metrics": {
+                "cpu_time": 460310342000,
+                "memory_used_mb": 2109,
+                "disk_read_bytes": 1275108864,
+                "disk_write_bytes": 248037888,
+                "network_rx_bytes": 454883,
+                "network_tx_bytes": 154823
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:49:46",
+            "metrics": {
+                "cpu_time": 469177184000,
+                "memory_used_mb": 2109,
+                "disk_read_bytes": 1282471936,
+                "disk_write_bytes": 248377856,
+                "network_rx_bytes": 527685,
+                "network_tx_bytes": 161940
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:49:51",
+            "metrics": {
+                "cpu_time": 478044693000,
+                "memory_used_mb": 2109,
+                "disk_read_bytes": 1295079936,
+                "disk_write_bytes": 248694784,
+                "network_rx_bytes": 537291,
+                "network_tx_bytes": 168464
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:49:56",
+            "metrics": {
+                "cpu_time": 485133118000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 1298762240,
+                "disk_write_bytes": 248961536,
+                "network_rx_bytes": 539007,
+                "network_tx_bytes": 171125
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:50:01",
+            "metrics": {
+                "cpu_time": 493347247000,
+                "memory_used_mb": 2112,
+                "disk_read_bytes": 1302261760,
+                "disk_write_bytes": 249301504,
+                "network_rx_bytes": 540366,
+                "network_tx_bytes": 174756
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:50:06",
+            "metrics": {
+                "cpu_time": 500152925000,
+                "memory_used_mb": 2112,
+                "disk_read_bytes": 1304798208,
+                "disk_write_bytes": 249715200,
+                "network_rx_bytes": 557045,
+                "network_tx_bytes": 183861
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:50:11",
+            "metrics": {
+                "cpu_time": 505541002000,
+                "memory_used_mb": 2112,
+                "disk_read_bytes": 1307236352,
+                "disk_write_bytes": 250363904,
+                "network_rx_bytes": 583062,
+                "network_tx_bytes": 205474
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:50:16",
+            "metrics": {
+                "cpu_time": 512672115000,
+                "memory_used_mb": 2112,
+                "disk_read_bytes": 1308920320,
+                "disk_write_bytes": 250699776,
+                "network_rx_bytes": 583274,
+                "network_tx_bytes": 211940
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:50:21",
+            "metrics": {
+                "cpu_time": 518489883000,
+                "memory_used_mb": 2112,
+                "disk_read_bytes": 1311254528,
+                "disk_write_bytes": 250933248,
+                "network_rx_bytes": 904304,
+                "network_tx_bytes": 239102
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:50:26",
+            "metrics": {
+                "cpu_time": 525527017000,
+                "memory_used_mb": 2113,
+                "disk_read_bytes": 1314127360,
+                "disk_write_bytes": 251228160,
+                "network_rx_bytes": 1254677,
+                "network_tx_bytes": 260648
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:50:31",
+            "metrics": {
+                "cpu_time": 533739839000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1321680384,
+                "disk_write_bytes": 253419520,
+                "network_rx_bytes": 1272772,
+                "network_tx_bytes": 285872
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:50:36",
+            "metrics": {
+                "cpu_time": 541594769000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1330468352,
+                "disk_write_bytes": 254181376,
+                "network_rx_bytes": 1284972,
+                "network_tx_bytes": 302944
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:50:44",
+            "metrics": {
+                "cpu_time": 551657720000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1332122624,
+                "disk_write_bytes": 254304256,
+                "network_rx_bytes": 1412895,
+                "network_tx_bytes": 309779
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:50:49",
+            "metrics": {
+                "cpu_time": 559152192000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1332297216,
+                "disk_write_bytes": 254357504,
+                "network_rx_bytes": 2158407,
+                "network_tx_bytes": 339983
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:50:54",
+            "metrics": {
+                "cpu_time": 564531448000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1334063104,
+                "disk_write_bytes": 254566912,
+                "network_rx_bytes": 2158758,
+                "network_tx_bytes": 340642
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:50:59",
+            "metrics": {
+                "cpu_time": 568299532000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1334263296,
+                "disk_write_bytes": 254931456,
+                "network_rx_bytes": 2158914,
+                "network_tx_bytes": 341056
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:51:05",
+            "metrics": {
+                "cpu_time": 572314260000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1334570496,
+                "disk_write_bytes": 256815616,
+                "network_rx_bytes": 2159070,
+                "network_tx_bytes": 341437
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:51:11",
+            "metrics": {
+                "cpu_time": 578707569000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1338801664,
+                "disk_write_bytes": 258256384,
+                "network_rx_bytes": 2342020,
+                "network_tx_bytes": 343715
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:51:16",
+            "metrics": {
+                "cpu_time": 586843912000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1344055296,
+                "disk_write_bytes": 258981376,
+                "network_rx_bytes": 2394090,
+                "network_tx_bytes": 351026
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:51:21",
+            "metrics": {
+                "cpu_time": 594084488000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1352338944,
+                "disk_write_bytes": 262758400,
+                "network_rx_bytes": 2432096,
+                "network_tx_bytes": 358431
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:51:26",
+            "metrics": {
+                "cpu_time": 601613713000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1354591232,
+                "disk_write_bytes": 264003584,
+                "network_rx_bytes": 2643365,
+                "network_tx_bytes": 395283
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:51:31",
+            "metrics": {
+                "cpu_time": 606542498000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1357119488,
+                "disk_write_bytes": 264224768,
+                "network_rx_bytes": 2783125,
+                "network_tx_bytes": 399233
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:51:36",
+            "metrics": {
+                "cpu_time": 612345665000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1358641664,
+                "disk_write_bytes": 265671168,
+                "network_rx_bytes": 3412547,
+                "network_tx_bytes": 418559
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:51:42",
+            "metrics": {
+                "cpu_time": 618643211000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1363231744,
+                "disk_write_bytes": 266605568,
+                "network_rx_bytes": 4435669,
+                "network_tx_bytes": 463662
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:51:47",
+            "metrics": {
+                "cpu_time": 625018788000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1364874752,
+                "disk_write_bytes": 266943488,
+                "network_rx_bytes": 4846817,
+                "network_tx_bytes": 486877
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:51:52",
+            "metrics": {
+                "cpu_time": 633321430000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1367457280,
+                "disk_write_bytes": 267476480,
+                "network_rx_bytes": 4851096,
+                "network_tx_bytes": 487191
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:51:57",
+            "metrics": {
+                "cpu_time": 641440954000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1368616960,
+                "disk_write_bytes": 268762624,
+                "network_rx_bytes": 4855074,
+                "network_tx_bytes": 488589
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:52:02",
+            "metrics": {
+                "cpu_time": 649841215000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1372963840,
+                "disk_write_bytes": 269073920,
+                "network_rx_bytes": 4924262,
+                "network_tx_bytes": 511508
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:52:07",
+            "metrics": {
+                "cpu_time": 658283770000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1378460672,
+                "disk_write_bytes": 269519360,
+                "network_rx_bytes": 5181075,
+                "network_tx_bytes": 536829
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:52:12",
+            "metrics": {
+                "cpu_time": 666590162000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1386850816,
+                "disk_write_bytes": 270776832,
+                "network_rx_bytes": 5264106,
+                "network_tx_bytes": 543565
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:52:17",
+            "metrics": {
+                "cpu_time": 674348552000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1390443008,
+                "disk_write_bytes": 271411712,
+                "network_rx_bytes": 5353426,
+                "network_tx_bytes": 554304
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:52:22",
+            "metrics": {
+                "cpu_time": 682604735000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1398692352,
+                "disk_write_bytes": 271899136,
+                "network_rx_bytes": 5701931,
+                "network_tx_bytes": 583045
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:52:27",
+            "metrics": {
+                "cpu_time": 691167477000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1400807424,
+                "disk_write_bytes": 272052736,
+                "network_rx_bytes": 6977299,
+                "network_tx_bytes": 622563
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:52:32",
+            "metrics": {
+                "cpu_time": 699155290000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1414259712,
+                "disk_write_bytes": 273506304,
+                "network_rx_bytes": 7847498,
+                "network_tx_bytes": 627883
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:52:37",
+            "metrics": {
+                "cpu_time": 707576086000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1424094720,
+                "disk_write_bytes": 274045952,
+                "network_rx_bytes": 7857287,
+                "network_tx_bytes": 631277
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:52:42",
+            "metrics": {
+                "cpu_time": 715638038000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1430462976,
+                "disk_write_bytes": 274214400,
+                "network_rx_bytes": 7923714,
+                "network_tx_bytes": 662028
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:52:47",
+            "metrics": {
+                "cpu_time": 723570361000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1440419328,
+                "disk_write_bytes": 275374080,
+                "network_rx_bytes": 7925110,
+                "network_tx_bytes": 665441
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:52:53",
+            "metrics": {
+                "cpu_time": 732084578000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1452514304,
+                "disk_write_bytes": 276919296,
+                "network_rx_bytes": 7947434,
+                "network_tx_bytes": 690049
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:52:58",
+            "metrics": {
+                "cpu_time": 740619523000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1458792448,
+                "disk_write_bytes": 277693440,
+                "network_rx_bytes": 7949700,
+                "network_tx_bytes": 702681
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:53:03",
+            "metrics": {
+                "cpu_time": 748777945000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1466339328,
+                "disk_write_bytes": 278295552,
+                "network_rx_bytes": 7974169,
+                "network_tx_bytes": 708333
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:53:08",
+            "metrics": {
+                "cpu_time": 756800599000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1471168000,
+                "disk_write_bytes": 281179136,
+                "network_rx_bytes": 7989551,
+                "network_tx_bytes": 721585
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:53:13",
+            "metrics": {
+                "cpu_time": 764803261000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1478240768,
+                "disk_write_bytes": 288107008,
+                "network_rx_bytes": 8060597,
+                "network_tx_bytes": 742167
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:53:18",
+            "metrics": {
+                "cpu_time": 772522396000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1482385920,
+                "disk_write_bytes": 301978112,
+                "network_rx_bytes": 8182782,
+                "network_tx_bytes": 757276
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:53:23",
+            "metrics": {
+                "cpu_time": 780537274000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1482826752,
+                "disk_write_bytes": 302076928,
+                "network_rx_bytes": 8211784,
+                "network_tx_bytes": 768484
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:53:29",
+            "metrics": {
+                "cpu_time": 788145973000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1483773952,
+                "disk_write_bytes": 303544832,
+                "network_rx_bytes": 8271467,
+                "network_tx_bytes": 794651
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:53:35",
+            "metrics": {
+                "cpu_time": 791928985000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1483773952,
+                "disk_write_bytes": 303544832,
+                "network_rx_bytes": 8271907,
+                "network_tx_bytes": 795236
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:53:40",
+            "metrics": {
+                "cpu_time": 797890189000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1484527616,
+                "disk_write_bytes": 303987200,
+                "network_rx_bytes": 8302592,
+                "network_tx_bytes": 799233
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:53:45",
+            "metrics": {
+                "cpu_time": 805977328000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1494881280,
+                "disk_write_bytes": 309837824,
+                "network_rx_bytes": 8324743,
+                "network_tx_bytes": 839353
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:53:50",
+            "metrics": {
+                "cpu_time": 814395620000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1504399872,
+                "disk_write_bytes": 312977920,
+                "network_rx_bytes": 8400787,
+                "network_tx_bytes": 854206
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:53:55",
+            "metrics": {
+                "cpu_time": 822898685000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1520638976,
+                "disk_write_bytes": 316462592,
+                "network_rx_bytes": 8413957,
+                "network_tx_bytes": 861544
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:54:00",
+            "metrics": {
+                "cpu_time": 831163572000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1535328256,
+                "disk_write_bytes": 322328064,
+                "network_rx_bytes": 8422735,
+                "network_tx_bytes": 865515
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:54:05",
+            "metrics": {
+                "cpu_time": 839344912000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1552866304,
+                "disk_write_bytes": 328285696,
+                "network_rx_bytes": 8431531,
+                "network_tx_bytes": 875074
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:54:10",
+            "metrics": {
+                "cpu_time": 847702211000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1564311040,
+                "disk_write_bytes": 329358848,
+                "network_rx_bytes": 8438836,
+                "network_tx_bytes": 881185
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:54:15",
+            "metrics": {
+                "cpu_time": 855489053000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1571965440,
+                "disk_write_bytes": 329625088,
+                "network_rx_bytes": 8447078,
+                "network_tx_bytes": 888622
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:54:20",
+            "metrics": {
+                "cpu_time": 863910243000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1582022144,
+                "disk_write_bytes": 333381632,
+                "network_rx_bytes": 8491142,
+                "network_tx_bytes": 905742
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:54:25",
+            "metrics": {
+                "cpu_time": 871968105000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1592704000,
+                "disk_write_bytes": 338089984,
+                "network_rx_bytes": 8507932,
+                "network_tx_bytes": 912666
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:54:30",
+            "metrics": {
+                "cpu_time": 879685144000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1597889536,
+                "disk_write_bytes": 339047424,
+                "network_rx_bytes": 8575024,
+                "network_tx_bytes": 936136
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:54:35",
+            "metrics": {
+                "cpu_time": 888224909000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1606417408,
+                "disk_write_bytes": 340772352,
+                "network_rx_bytes": 8744209,
+                "network_tx_bytes": 955333
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:54:40",
+            "metrics": {
+                "cpu_time": 897301808000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1622718464,
+                "disk_write_bytes": 342349312,
+                "network_rx_bytes": 8830354,
+                "network_tx_bytes": 987554
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:54:45",
+            "metrics": {
+                "cpu_time": 906084318000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1641526272,
+                "disk_write_bytes": 352503296,
+                "network_rx_bytes": 8978701,
+                "network_tx_bytes": 1004860
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:54:50",
+            "metrics": {
+                "cpu_time": 914905438000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1651390976,
+                "disk_write_bytes": 353730560,
+                "network_rx_bytes": 9090117,
+                "network_tx_bytes": 1064503
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:54:56",
+            "metrics": {
+                "cpu_time": 923353604000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1656380416,
+                "disk_write_bytes": 354078208,
+                "network_rx_bytes": 9583940,
+                "network_tx_bytes": 1084720
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:55:01",
+            "metrics": {
+                "cpu_time": 932121499000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1658926080,
+                "disk_write_bytes": 354411008,
+                "network_rx_bytes": 10358390,
+                "network_tx_bytes": 1100022
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:55:06",
+            "metrics": {
+                "cpu_time": 938820614000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1660578816,
+                "disk_write_bytes": 355262976,
+                "network_rx_bytes": 11236655,
+                "network_tx_bytes": 1124627
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:55:11",
+            "metrics": {
+                "cpu_time": 947469501000,
+                "memory_used_mb": 2115,
+                "disk_read_bytes": 1667507200,
+                "disk_write_bytes": 356376576,
+                "network_rx_bytes": 14216637,
+                "network_tx_bytes": 1179737
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:55:16",
+            "metrics": {
+                "cpu_time": 954571510000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1673828352,
+                "disk_write_bytes": 358111232,
+                "network_rx_bytes": 15375304,
+                "network_tx_bytes": 1221670
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:55:21",
+            "metrics": {
+                "cpu_time": 963473191000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1676319232,
+                "disk_write_bytes": 359135232,
+                "network_rx_bytes": 18015184,
+                "network_tx_bytes": 1264407
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:55:26",
+            "metrics": {
+                "cpu_time": 970501676000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1676653056,
+                "disk_write_bytes": 359456256,
+                "network_rx_bytes": 19996959,
+                "network_tx_bytes": 1294867
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:55:31",
+            "metrics": {
+                "cpu_time": 976676337000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1678051328,
+                "disk_write_bytes": 360711680,
+                "network_rx_bytes": 21636523,
+                "network_tx_bytes": 1346867
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:55:36",
+            "metrics": {
+                "cpu_time": 982428486000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1680296960,
+                "disk_write_bytes": 361063424,
+                "network_rx_bytes": 24359532,
+                "network_tx_bytes": 1425100
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:55:41",
+            "metrics": {
+                "cpu_time": 988074004000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1682682368,
+                "disk_write_bytes": 361924096,
+                "network_rx_bytes": 27096375,
+                "network_tx_bytes": 1472368
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:55:46",
+            "metrics": {
+                "cpu_time": 994350873000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1687516672,
+                "disk_write_bytes": 366329344,
+                "network_rx_bytes": 28533029,
+                "network_tx_bytes": 1505185
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:55:51",
+            "metrics": {
+                "cpu_time": 1001456901000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1688931328,
+                "disk_write_bytes": 366413312,
+                "network_rx_bytes": 31377619,
+                "network_tx_bytes": 1563728
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:55:56",
+            "metrics": {
+                "cpu_time": 1008484659000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1690595840,
+                "disk_write_bytes": 371752960,
+                "network_rx_bytes": 34780137,
+                "network_tx_bytes": 1624281
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:56:01",
+            "metrics": {
+                "cpu_time": 1017437452000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1698463744,
+                "disk_write_bytes": 379150336,
+                "network_rx_bytes": 36787018,
+                "network_tx_bytes": 1659082
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:56:06",
+            "metrics": {
+                "cpu_time": 1026511499000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1701442048,
+                "disk_write_bytes": 383852544,
+                "network_rx_bytes": 40159064,
+                "network_tx_bytes": 1714432
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:56:11",
+            "metrics": {
+                "cpu_time": 1033912455000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1704409600,
+                "disk_write_bytes": 388325376,
+                "network_rx_bytes": 43927232,
+                "network_tx_bytes": 1773139
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:56:17",
+            "metrics": {
+                "cpu_time": 1040903256000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1711865344,
+                "disk_write_bytes": 391131136,
+                "network_rx_bytes": 45464590,
+                "network_tx_bytes": 1795535
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:56:22",
+            "metrics": {
+                "cpu_time": 1047603511000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1712730112,
+                "disk_write_bytes": 391208960,
+                "network_rx_bytes": 46829198,
+                "network_tx_bytes": 1825751
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:56:27",
+            "metrics": {
+                "cpu_time": 1054203328000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1714330624,
+                "disk_write_bytes": 392621568,
+                "network_rx_bytes": 48336886,
+                "network_tx_bytes": 1858751
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:56:32",
+            "metrics": {
+                "cpu_time": 1060143277000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1714909696,
+                "disk_write_bytes": 393229312,
+                "network_rx_bytes": 50104794,
+                "network_tx_bytes": 1974254
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:56:37",
+            "metrics": {
+                "cpu_time": 1068583620000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1717239808,
+                "disk_write_bytes": 400008192,
+                "network_rx_bytes": 53679199,
+                "network_tx_bytes": 2056627
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:56:42",
+            "metrics": {
+                "cpu_time": 1077635420000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1722030080,
+                "disk_write_bytes": 402326528,
+                "network_rx_bytes": 57338627,
+                "network_tx_bytes": 2115316
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:56:47",
+            "metrics": {
+                "cpu_time": 1086611106000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1725810176,
+                "disk_write_bytes": 452080640,
+                "network_rx_bytes": 60891172,
+                "network_tx_bytes": 2178579
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:56:52",
+            "metrics": {
+                "cpu_time": 1095784704000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1726289920,
+                "disk_write_bytes": 463807488,
+                "network_rx_bytes": 64238357,
+                "network_tx_bytes": 2255247
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:56:57",
+            "metrics": {
+                "cpu_time": 1104894323000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1726758912,
+                "disk_write_bytes": 466532352,
+                "network_rx_bytes": 68040910,
+                "network_tx_bytes": 2381137
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:57:02",
+            "metrics": {
+                "cpu_time": 1113818396000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1727664128,
+                "disk_write_bytes": 466663424,
+                "network_rx_bytes": 71453624,
+                "network_tx_bytes": 2435525
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:57:07",
+            "metrics": {
+                "cpu_time": 1122992052000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1727909376,
+                "disk_write_bytes": 468649984,
+                "network_rx_bytes": 75171608,
+                "network_tx_bytes": 2494246
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:57:12",
+            "metrics": {
+                "cpu_time": 1132338601000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1730426880,
+                "disk_write_bytes": 469751808,
+                "network_rx_bytes": 77228126,
+                "network_tx_bytes": 2529596
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:57:17",
+            "metrics": {
+                "cpu_time": 1141201093000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1732347904,
+                "disk_write_bytes": 475711488,
+                "network_rx_bytes": 78747965,
+                "network_tx_bytes": 2554416
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:57:22",
+            "metrics": {
+                "cpu_time": 1148685737000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1746096640,
+                "disk_write_bytes": 485410816,
+                "network_rx_bytes": 81513950,
+                "network_tx_bytes": 2594730
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:57:27",
+            "metrics": {
+                "cpu_time": 1156826321000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1753783296,
+                "disk_write_bytes": 493137408,
+                "network_rx_bytes": 83181532,
+                "network_tx_bytes": 2630382
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:57:32",
+            "metrics": {
+                "cpu_time": 1164843232000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1758666240,
+                "disk_write_bytes": 493940224,
+                "network_rx_bytes": 85593710,
+                "network_tx_bytes": 2705649
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:57:38",
+            "metrics": {
+                "cpu_time": 1172921356000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1767839744,
+                "disk_write_bytes": 498474496,
+                "network_rx_bytes": 88287067,
+                "network_tx_bytes": 2759318
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:57:43",
+            "metrics": {
+                "cpu_time": 1181162688000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1802680320,
+                "disk_write_bytes": 527506944,
+                "network_rx_bytes": 91912966,
+                "network_tx_bytes": 2809912
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:57:48",
+            "metrics": {
+                "cpu_time": 1189025189000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1809851392,
+                "disk_write_bytes": 575083008,
+                "network_rx_bytes": 93141604,
+                "network_tx_bytes": 2823354
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:57:53",
+            "metrics": {
+                "cpu_time": 1196802622000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1812192256,
+                "disk_write_bytes": 577315328,
+                "network_rx_bytes": 93974155,
+                "network_tx_bytes": 2845447
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:57:58",
+            "metrics": {
+                "cpu_time": 1202640297000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1815388160,
+                "disk_write_bytes": 582243840,
+                "network_rx_bytes": 94695053,
+                "network_tx_bytes": 2858958
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:58:03",
+            "metrics": {
+                "cpu_time": 1208562760000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1816227840,
+                "disk_write_bytes": 603350528,
+                "network_rx_bytes": 95442640,
+                "network_tx_bytes": 2867331
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:58:08",
+            "metrics": {
+                "cpu_time": 1216462157000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1818698752,
+                "disk_write_bytes": 604317184,
+                "network_rx_bytes": 96362629,
+                "network_tx_bytes": 2878465
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:58:13",
+            "metrics": {
+                "cpu_time": 1224838252000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1822035456,
+                "disk_write_bytes": 605698048,
+                "network_rx_bytes": 98616174,
+                "network_tx_bytes": 2932861
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:58:18",
+            "metrics": {
+                "cpu_time": 1232337493000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1822924288,
+                "disk_write_bytes": 606264320,
+                "network_rx_bytes": 101560485,
+                "network_tx_bytes": 2979154
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:58:23",
+            "metrics": {
+                "cpu_time": 1240273555000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1823131136,
+                "disk_write_bytes": 606565376,
+                "network_rx_bytes": 104159210,
+                "network_tx_bytes": 3033508
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:58:28",
+            "metrics": {
+                "cpu_time": 1247660239000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1828413440,
+                "disk_write_bytes": 607338496,
+                "network_rx_bytes": 105531986,
+                "network_tx_bytes": 3060200
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:58:33",
+            "metrics": {
+                "cpu_time": 1256211590000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1835245568,
+                "disk_write_bytes": 613608960,
+                "network_rx_bytes": 107740605,
+                "network_tx_bytes": 3140067
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:58:38",
+            "metrics": {
+                "cpu_time": 1265241370000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1844385792,
+                "disk_write_bytes": 616035328,
+                "network_rx_bytes": 108092595,
+                "network_tx_bytes": 3158544
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:58:43",
+            "metrics": {
+                "cpu_time": 1274434684000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1857546752,
+                "disk_write_bytes": 619608576,
+                "network_rx_bytes": 109438852,
+                "network_tx_bytes": 3196427
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:58:49",
+            "metrics": {
+                "cpu_time": 1283495896000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1867210240,
+                "disk_write_bytes": 629631488,
+                "network_rx_bytes": 110183847,
+                "network_tx_bytes": 3205335
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:58:54",
+            "metrics": {
+                "cpu_time": 1290837297000,
+                "memory_used_mb": 2117,
+                "disk_read_bytes": 1871286272,
+                "disk_write_bytes": 630746112,
+                "network_rx_bytes": 110460668,
+                "network_tx_bytes": 3212965
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:58:59",
+            "metrics": {
+                "cpu_time": 1297085094000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1872304640,
+                "disk_write_bytes": 632353280,
+                "network_rx_bytes": 110875373,
+                "network_tx_bytes": 3224410
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:59:04",
+            "metrics": {
+                "cpu_time": 1303094061000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1879575040,
+                "disk_write_bytes": 634925568,
+                "network_rx_bytes": 111750455,
+                "network_tx_bytes": 3236621
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:59:09",
+            "metrics": {
+                "cpu_time": 1310509179000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1885061632,
+                "disk_write_bytes": 638124544,
+                "network_rx_bytes": 113610277,
+                "network_tx_bytes": 3259349
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:59:14",
+            "metrics": {
+                "cpu_time": 1318547119000,
+                "memory_used_mb": 2116,
+                "disk_read_bytes": 1887593984,
+                "disk_write_bytes": 653488640,
+                "network_rx_bytes": 114285759,
+                "network_tx_bytes": 3266336
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:59:19",
+            "metrics": {
+                "cpu_time": 1326847177000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1890564096,
+                "disk_write_bytes": 710628864,
+                "network_rx_bytes": 114959600,
+                "network_tx_bytes": 3271806
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:59:24",
+            "metrics": {
+                "cpu_time": 1335230747000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 1892448768,
+                "disk_write_bytes": 723244544,
+                "network_rx_bytes": 115651774,
+                "network_tx_bytes": 3275098
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:59:29",
+            "metrics": {
+                "cpu_time": 1343314540000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2138937856,
+                "disk_write_bytes": 724608512,
+                "network_rx_bytes": 118423334,
+                "network_tx_bytes": 3293419
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:59:34",
+            "metrics": {
+                "cpu_time": 1351952402000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2159570944,
+                "disk_write_bytes": 731248128,
+                "network_rx_bytes": 119680316,
+                "network_tx_bytes": 3319191
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:59:39",
+            "metrics": {
+                "cpu_time": 1360582004000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2165274112,
+                "disk_write_bytes": 739149824,
+                "network_rx_bytes": 120646128,
+                "network_tx_bytes": 3323918
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:59:45",
+            "metrics": {
+                "cpu_time": 1368151169000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2171226112,
+                "disk_write_bytes": 742657024,
+                "network_rx_bytes": 120658795,
+                "network_tx_bytes": 3330327
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:59:50",
+            "metrics": {
+                "cpu_time": 1376164218000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2181665792,
+                "disk_write_bytes": 751676416,
+                "network_rx_bytes": 121019593,
+                "network_tx_bytes": 3341724
+            }
+        },
+        {
+            "timestamp": "2024-12-06 18:59:55",
+            "metrics": {
+                "cpu_time": 1383957443000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2184772096,
+                "disk_write_bytes": 759047680,
+                "network_rx_bytes": 122225784,
+                "network_tx_bytes": 3389389
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:00:00",
+            "metrics": {
+                "cpu_time": 1391716208000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2257391616,
+                "disk_write_bytes": 761673216,
+                "network_rx_bytes": 122900281,
+                "network_tx_bytes": 3422053
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:00:05",
+            "metrics": {
+                "cpu_time": 1400258265000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2438137344,
+                "disk_write_bytes": 797259776,
+                "network_rx_bytes": 123566433,
+                "network_tx_bytes": 3438340
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:00:10",
+            "metrics": {
+                "cpu_time": 1408303539000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2453059584,
+                "disk_write_bytes": 814629376,
+                "network_rx_bytes": 123846316,
+                "network_tx_bytes": 3448689
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:00:15",
+            "metrics": {
+                "cpu_time": 1416747857000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2461771264,
+                "disk_write_bytes": 818704896,
+                "network_rx_bytes": 124309962,
+                "network_tx_bytes": 3451577
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:00:20",
+            "metrics": {
+                "cpu_time": 1424965895000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2472185856,
+                "disk_write_bytes": 830992896,
+                "network_rx_bytes": 124425118,
+                "network_tx_bytes": 3455207
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:00:25",
+            "metrics": {
+                "cpu_time": 1433427353000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2479919104,
+                "disk_write_bytes": 856572416,
+                "network_rx_bytes": 124646650,
+                "network_tx_bytes": 3462228
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:00:30",
+            "metrics": {
+                "cpu_time": 1441927029000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2498611712,
+                "disk_write_bytes": 857038336,
+                "network_rx_bytes": 124925811,
+                "network_tx_bytes": 3471489
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:00:35",
+            "metrics": {
+                "cpu_time": 1449919984000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2506569216,
+                "disk_write_bytes": 857351168,
+                "network_rx_bytes": 125280432,
+                "network_tx_bytes": 3489606
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:00:40",
+            "metrics": {
+                "cpu_time": 1458262939000,
+                "memory_used_mb": 2114,
+                "disk_read_bytes": 2514091008,
+                "disk_write_bytes": 857798144,
+                "network_rx_bytes": 125488331,
+                "network_tx_bytes": 3516266
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:00:45",
+            "metrics": {
+                "cpu_time": 1466749534000,
+                "memory_used_mb": 2113,
+                "disk_read_bytes": 2548874752,
+                "disk_write_bytes": 858695680,
+                "network_rx_bytes": 126601370,
+                "network_tx_bytes": 3558989
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:00:50",
+            "metrics": {
+                "cpu_time": 1475729398000,
+                "memory_used_mb": 2112,
+                "disk_read_bytes": 2591264256,
+                "disk_write_bytes": 894113280,
+                "network_rx_bytes": 127479169,
+                "network_tx_bytes": 3575404
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:00:55",
+            "metrics": {
+                "cpu_time": 1484897582000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 2862221824,
+                "disk_write_bytes": 897947648,
+                "network_rx_bytes": 127720045,
+                "network_tx_bytes": 3598699
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:01:00",
+            "metrics": {
+                "cpu_time": 1493801761000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 2888842240,
+                "disk_write_bytes": 925589504,
+                "network_rx_bytes": 130331207,
+                "network_tx_bytes": 3621265
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:01:06",
+            "metrics": {
+                "cpu_time": 1502115961000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 2901638656,
+                "disk_write_bytes": 927307776,
+                "network_rx_bytes": 130979051,
+                "network_tx_bytes": 3631564
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:01:11",
+            "metrics": {
+                "cpu_time": 1510433823000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3112839680,
+                "disk_write_bytes": 927361024,
+                "network_rx_bytes": 130979447,
+                "network_tx_bytes": 3632795
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:01:16",
+            "metrics": {
+                "cpu_time": 1518370397000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3157251072,
+                "disk_write_bytes": 928073728,
+                "network_rx_bytes": 130984661,
+                "network_tx_bytes": 3635982
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:01:21",
+            "metrics": {
+                "cpu_time": 1526878658000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3175494656,
+                "disk_write_bytes": 931252736,
+                "network_rx_bytes": 131121579,
+                "network_tx_bytes": 3638648
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:01:26",
+            "metrics": {
+                "cpu_time": 1535345751000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3195751424,
+                "disk_write_bytes": 931883520,
+                "network_rx_bytes": 131320387,
+                "network_tx_bytes": 3640096
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:01:31",
+            "metrics": {
+                "cpu_time": 1543772391000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3202619904,
+                "disk_write_bytes": 932125184,
+                "network_rx_bytes": 131609079,
+                "network_tx_bytes": 3643024
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:01:36",
+            "metrics": {
+                "cpu_time": 1552415116000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3206563840,
+                "disk_write_bytes": 934337024,
+                "network_rx_bytes": 131855316,
+                "network_tx_bytes": 3660200
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:01:41",
+            "metrics": {
+                "cpu_time": 1561042880000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3217379328,
+                "disk_write_bytes": 935299584,
+                "network_rx_bytes": 131874102,
+                "network_tx_bytes": 3673056
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:01:46",
+            "metrics": {
+                "cpu_time": 1569482114000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3219660800,
+                "disk_write_bytes": 935979520,
+                "network_rx_bytes": 132277275,
+                "network_tx_bytes": 3677249
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:01:51",
+            "metrics": {
+                "cpu_time": 1578286687000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3221518848,
+                "disk_write_bytes": 936929792,
+                "network_rx_bytes": 132412281,
+                "network_tx_bytes": 3679318
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:01:56",
+            "metrics": {
+                "cpu_time": 1584111209000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3222051328,
+                "disk_write_bytes": 937753088,
+                "network_rx_bytes": 133029815,
+                "network_tx_bytes": 3694135
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:02:01",
+            "metrics": {
+                "cpu_time": 1589295769000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3223145984,
+                "disk_write_bytes": 937984000,
+                "network_rx_bytes": 133683099,
+                "network_tx_bytes": 3710744
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:02:06",
+            "metrics": {
+                "cpu_time": 1594966300000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3226178560,
+                "disk_write_bytes": 938341888,
+                "network_rx_bytes": 134215144,
+                "network_tx_bytes": 3737537
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:02:12",
+            "metrics": {
+                "cpu_time": 1600743200000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3226479104,
+                "disk_write_bytes": 938601984,
+                "network_rx_bytes": 134216052,
+                "network_tx_bytes": 3739799
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:02:17",
+            "metrics": {
+                "cpu_time": 1607075839000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3228461568,
+                "disk_write_bytes": 938708480,
+                "network_rx_bytes": 134376381,
+                "network_tx_bytes": 3748112
+            }
+        },
+        {
+            "timestamp": "2024-12-06 19:02:22",
+            "metrics": {
+                "cpu_time": 1615307006000,
+                "memory_used_mb": 2111,
+                "disk_read_bytes": 3231952384,
+                "disk_write_bytes": 938743808,
+                "network_rx_bytes": 134734317,
+                "network_tx_bytes": 3755236
+            }
+        }
+    ]
+}
